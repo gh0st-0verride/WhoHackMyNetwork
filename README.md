@@ -1,8 +1,8 @@
 # WhoHackMyNetwork
 Usage:
-  scan.exe {ip_range}
+  main.py.exe {ip_range}
 No legal liability is undertaken.
 
 Kullanımı:
-  scan.exe {ip_aralığı}
+  main.py {ip_aralığı}
 Hiçbir yasal sorumluluk üstlenilmektedir.
